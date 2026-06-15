@@ -44,5 +44,3 @@ Carpetas:
  Dayana Chavarria
 ---
 
-## 👩‍💻 Autor
-Proyecto académico realizado por **Dayana**.
